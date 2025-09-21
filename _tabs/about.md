@@ -4,5 +4,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+![희선이 사진](/profile/about.jpg){: .mx-auto d-block :}
+
+# 희선이 이야기 👶
+
+안녕하세요.  
+이곳은 우리 아이 **희선이**의 발자취를 기록하는 작은 아카이브입니다.  
+
+첫 웃음과 첫 걸음, 그리고 하루하루 자라나는 모습까지,  
+아이의 성장은 곁에서 지켜보는 것만으로도 특별한 이야기가 됩니다.  
+
+이 블로그에는 그 순간들을 사진과 글로 담아 두려 합니다.  
+육아라는 여정에서 느낀 생각들, 가족이 함께한 일상의 장면들이  
+누군가에게는 공감이 되고, 또 다른 누군가에게는 위로가 되기를 바랍니다.  
+
+희선이와 함께한 일상의 기록들을 함께 즐겨주세요.
