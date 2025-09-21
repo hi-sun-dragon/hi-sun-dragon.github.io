@@ -1,7 +1,7 @@
 ---
 title: 인스타그램 시작!
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: dad
+description: 드디어 인스타그램 계정을 열었습니다. 앞으로 블로그와 함께 아이의 일상과 기록들을 인스타그램에서도 공유할 예정이에요.
+author: mom
 date: 2025-02-18 10:00:00 +0900
 categories: [SNS]
 tags: [인스타그램, 기록, 소통]
