@@ -22,8 +22,15 @@ image:
 *촛점이 없는 눈🥲*
 
 100일이 되니 확실히 달라졌습니다. 눈빛이 또렷해지고, 웃음도 훨씬 자주 지어 주었어요. 카메라를 향해 시선을 주는 모습이 너무 인상적이었고, 덕분에 촬영 분위기도 더 활기찼습니다. 두 시기를 비교해 보니 아기의 변화가 더욱 뚜렷하게 느껴지네요.
-<video src="https://assets.hee-seon.kim/posts/100-days/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AF-%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC-1.mp4" class="video-large" autoplay muted loop playsinline controls>
-</video>
+
+<div class="video-large">
+  <iframe
+    src="https://www.youtube.com/embed/RJs_BvmvmXo" 
+    style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## 준비와 촬영 현장
 촬영은 오전 11시쯤으로 잡았는데, 사실 시간대를 고른 건 저희가 아니라 아기의 생활 패턴이었습니다. 분유 먹는 시간, 분유 먹는 시간과 낮잠 시간을 피해 들어갈 수 있는 딱 그 시각이었던 거죠.

@@ -26,9 +26,5 @@
 }
 
 .video-large {
-  width: 75%;           /* 가로 75% */
-  //aspect-ratio: 10 / 3; /* 가로:세로 비율 */
-  //object-fit: cover;    /* 꽉 채우기 */
-  display: block;
-  margin: 0 auto;       /* 가운데 정렬 */
+  width:75%; position:relative; padding-bottom:56.25%; height:0; margin:0 auto;
 }
