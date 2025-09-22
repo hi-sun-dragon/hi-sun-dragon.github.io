@@ -15,3 +15,20 @@
   display: block;
   margin: 0 auto;
 }
+
+.img-vertical-thumb {
+  width: 75%;
+  aspect-ratio: 10 / 6;
+
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+.video-large {
+  width: 75%;           /* 가로 75% */
+  //aspect-ratio: 10 / 3; /* 가로:세로 비율 */
+  //object-fit: cover;    /* 꽉 채우기 */
+  display: block;
+  margin: 0 auto;       /* 가운데 정렬 */
+}
