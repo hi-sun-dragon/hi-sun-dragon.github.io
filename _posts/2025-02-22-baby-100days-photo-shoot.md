@@ -5,7 +5,7 @@ author: hisun
 date: 2025-02-22 22:30:00 +0900
 categories: [기념촬영]
 tags: [100일 기념, 아기 100일 촬영, 스튜디오 촬영]
-pin: true
+pin: false
 image:
   path: /posts/100-days/백일-촬영-0.JPG
   lqip: "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAwCdASoOABQAPm0qkUWkIqGYBABABsSygFtkEPSpkl3/gH0sZJrAAPlw/HHgEDn8RYT6/KXtNc+X1Wy2z1SQ2jH5ZzICsLGM6cDgHQ22Ztb/7MuRHWv/ZI23Fc0rYbe1DuCB31vwuKJZJsuGOow70qSB1IzIe3G6tKjirjdqm7Snrw6/LBMM+2ZZ3P8ExOO478C9WX9spzlAAAA="
@@ -39,7 +39,7 @@ image:
 
 100일 촬영부터는 유료 패키지로 넘어가면서 의상 컨디션이 확실히 좋아졌습니다. 50일 때는 작은 사이즈 옷들이 워낙 많은 아기들이 입고 지나가서 조금 사용감이 느껴졌는데, 100일 의상은 확실히 덜 입혀서 그런지 훨씬 깨끗하고 깔끔해 보였어요.
 ![아기 단독 컷 2](/posts/100-days/백일-촬영-2.JPG){: .img-large }
-*촛점이 없는 눈🥲*
+*이제 아주 또렷하게 바라봐요*
 
 ## 원본 사진과 앨범
 촬영이 끝나면 수백 장의 원본 사진을 받습니다. 아직 보정은 되어 있지 않은 상태라 순간순간의 표정과 모습이 그대로 담겨 있죠. 이번 촬영에서도 약 270장의 원본을 받았는데, 오히려 너무 잘 찍혀서 어떤 걸 고를지 고민이 될 정도였습니다. 예전에 결혼식 때는 마음에 드는 사진이 거의 없어서 억지로 몇 장을 골라야 했는데, 이번에는 반대로 마음에 드는 컷이 너무 많아 고르기가 더 힘들더라고요.

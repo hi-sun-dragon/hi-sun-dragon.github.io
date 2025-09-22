@@ -5,7 +5,7 @@ author: hisun
 date: 2024-12-07 22:00:00 +0900
 categories: [기념촬영]
 tags: [50일 기념, 아기 50일 촬영, 스튜디오 촬영]
-pin: true
+pin: false
 image:
   path: /posts/50-days/50일-촬영-5.JPG
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA

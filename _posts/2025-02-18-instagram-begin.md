@@ -5,7 +5,7 @@ author: hisun
 date: 2025-02-18 10:00:00 +0900
 categories: [SNS]
 tags: [인스타그램, 기록, 소통]
-pin: true
+pin: false
 ---
 
 ## 드디어 인스타그램 시작 🎉
