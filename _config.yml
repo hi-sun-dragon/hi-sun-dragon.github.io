@@ -22,7 +22,8 @@ description: >- # used by seo meta and the atom feed
   너무나도 귀여운 희선이와 함께하는 육아 성장 기록 블로그, 아이와 엄마,아빠가 함께하는 소중한 순간을 담습니다.
 
 # Fill in the protocol & hostname for your site.
-url: "https://blog.hee-seon.kim"
+#url: "https://blog.hee-seon.kim"
+url: "https://hee-seon.kim"
 
 #github:
 #  username: github_username # change to your GitHub username
